@@ -1,0 +1,10 @@
+<root>
+	<trade id=\"01\">
+		<pear></pear>
+		<apple>10</apple>
+		<banana>20</banana>
+	</trade>
+	<trade id=\"02\">
+		<apple>20</apple>
+	</trade>
+</root>
